@@ -3,7 +3,7 @@ Version: 1.0
 Maintainer: Isaías Gätjens M <igatjens@gmail.com>
 Section: comm
 Homepage: deepinenespañol.com
-Architecture: all
+Architecture: amd64
 Priority: optional
 Depends: dde (=2020.08.07)
 Description: Parche de idioma español para Deepin 20 beta
