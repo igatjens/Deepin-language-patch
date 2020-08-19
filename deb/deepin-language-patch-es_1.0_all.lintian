@@ -1,0 +1,9 @@
+E: deepin-language-patch-es: changelog-file-missing-in-native-package
+E: deepin-language-patch-es: copyright-file-contains-full-gpl-license
+E: deepin-language-patch-es: copyright-should-refer-to-common-license-file-for-gpl
+W: deepin-language-patch-es: extended-description-line-too-long
+W: deepin-language-patch-es: bad-homepage deepinenespa??ol.com
+E: deepin-language-patch-es: md5sums-lists-nonexistent-file usr/share/deepin-language-patch/es/translations/deepin-calculator.deepin-calculator-desktop/deepin-calculator-desktop_es.q
+W: deepin-language-patch-es: file-missing-in-md5sums usr/share/deepin-language-patch/es/translations/deepin-calculator.deepin-calculator-desktop/deepin-calculator-desktop_es.qm
+W: deepin-language-patch-es: maintainer-script-ignores-errors postinst
+W: deepin-language-patch-es: maintainer-script-ignores-errors prerm

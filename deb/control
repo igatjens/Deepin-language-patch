@@ -1,0 +1,10 @@
+Package: deepin-language-patch-es
+Version: 1.0
+Maintainer: Isaías Gätjens M <igatjens@gmail.com>
+Section: comm
+Homepage: deepinenespañol.com
+Architecture: all
+Priority: optional
+Depends: dde (=2020.08.07)
+Description: Parche de idioma español para Deepin 20 beta
+ Parche de idioma español para Deepin 20 beta. Hace respaldo de las traducciones originales y las restaura al desinstalarse.
