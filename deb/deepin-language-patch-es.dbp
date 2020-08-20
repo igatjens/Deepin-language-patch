@@ -14,11 +14,11 @@ Description: Parche de idioma español para Deepin 20 beta
 <</CTRL>>
 <<FILES>>
 1
-/home/jaca/desarrollo/github/deepin-language-patch/src/translations -> translations -> /usr/share/deepin-language-patch/es/
-/home/jaca/desarrollo/github/deepin-language-patch/src/os_translations.conf -> os_translations.conf -> /usr/share/deepin-language-patch/es/
-/home/jaca/desarrollo/github/deepin-language-patch/src/patch-launchers.sh* -> patch-launchers.sh -> /usr/share/deepin-language-patch/es/
-/home/jaca/desarrollo/github/deepin-language-patch/src/patch-translations.sh* -> patch-translations.sh -> /usr/share/deepin-language-patch/es/
 /home/jaca/desarrollo/github/deepin-language-patch/src/undo_last_patch-translations.sh* -> undo_last_patch-translations.sh -> /usr/share/deepin-language-patch/es/
+/home/jaca/desarrollo/github/deepin-language-patch/src/patch-translations.sh* -> patch-translations.sh -> /usr/share/deepin-language-patch/es/
+/home/jaca/desarrollo/github/deepin-language-patch/src/patch-launchers.sh* -> patch-launchers.sh -> /usr/share/deepin-language-patch/es/
+/home/jaca/desarrollo/github/deepin-language-patch/src/os_translations.conf -> os_translations.conf -> /usr/share/deepin-language-patch/es/
+/home/jaca/desarrollo/github/deepin-language-patch/src/translations -> translations -> /usr/share/deepin-language-patch/es/
 <</FILES>>
 <<SCRIPTS>>
 <<PREINST>>

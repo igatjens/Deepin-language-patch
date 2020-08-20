@@ -4,7 +4,7 @@
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="348"/>
         <source>The programs are preventing the computer from shutting down, and forcing shut down may cause data loss.</source>
-        <translation>Los programas evitan que el equipo se apague, y forzar el apagado puede causar pérdida de datos.</translation>
+        <translation>Una o más aplicaciones aún están abiertas y evitan que el equipo se apague.</translation>
     </message>
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="349"/>
@@ -13,27 +13,27 @@
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="362"/>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="366"/>
         <source>To close the program, click Cancel, and then close the program.</source>
-        <translation>Para cerrar el programa, haga clic en Cancelar y luego ciérrelo.</translation>
+        <translation>Haga clic en Cancelar para cerrarlas correctamente.</translation>
     </message>
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="353"/>
         <source>The programs are preventing the computer from reboot, and forcing reboot may cause data loss.</source>
-        <translation>Los programas impiden que el equipo se reinicie, y forzar el reinicio puede causar pérdida de datos.</translation>
+        <translation>Una o más aplicaciones aún están abiertas y evitan que el equipo se reinicie.</translation>
     </message>
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="357"/>
         <source>The programs are preventing the computer from suspend, and forcing suspend may cause data loss.</source>
-        <translation>Los programas impiden que el equipo se suspenda, y forzar la suspensión puede provocar la pérdida de datos.</translation>
+        <translation>Una o más aplicaciones aún están abiertas y evitan que el equipo se suspenda.</translation>
     </message>
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="361"/>
         <source>The programs are preventing the computer from hibernate, and forcing hibernate may cause data loss.</source>
-        <translation>Los programas impiden que el equipo hiberne, y forzar la hibernación puede provocar la pérdida de datos.</translation>
+        <translation>Una o más aplicaciones aún están abiertas y evitan que el equipo hiberne.</translation>
     </message>
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="365"/>
         <source>The programs are preventing the computer from log out, and forcing log out may cause data loss.</source>
-        <translation>Los programas impiden que el equipo cierre la sesión, y forzarla puede causar pérdida de datos.</translation>
+        <translation>Una o más aplicaciones aún están abiertas y evitan que el equipo cierre sesión.</translation>
     </message>
     <message>
         <location filename="../src/dde-shutdown/view/contentwidget.cpp" line="383"/>
