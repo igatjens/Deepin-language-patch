@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>Category</name>
     <message>
@@ -15,11 +17,11 @@
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Favoritos</translation>
+        <translation>Favoritas</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Activo</translation>
+        <translation>Activadas</translation>
     </message>
     <message>
         <source>Chinese</source>
@@ -277,11 +279,11 @@
     </message>
     <message>
         <source>Favorite</source>
-        <translation>Favorito</translation>
+        <translation>Favorita</translation>
     </message>
     <message>
         <source>Unfavorite</source>
-        <translation>Quitar favorito</translation>
+        <translation>Quitar favoritas</translation>
     </message>
     <message>
         <source>Details</source>
@@ -400,11 +402,11 @@
     </message>
     <message>
         <source>Favorite</source>
-        <translation>Favorito</translation>
+        <translation>Favorita</translation>
     </message>
     <message>
         <source>Unfavorite</source>
-        <translation>Quitar favorito</translation>
+        <translation>Quitar favoritas</translation>
     </message>
     <message>
         <source>Font info</source>

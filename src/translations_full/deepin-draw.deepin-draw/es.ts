@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>BigColorButton</name>
     <message>
@@ -536,7 +538,7 @@ ya existe, ¿quiere reemplazar?</translation>
     <message>
         <location filename="../frame/polygonalstarattributewidget.cpp" line="90"/>
         <source>Points</source>
-        <translation>Puntos</translation>
+        <translation>Puntas</translation>
     </message>
     <message>
         <location filename="../frame/polygonalstarattributewidget.cpp" line="122"/>

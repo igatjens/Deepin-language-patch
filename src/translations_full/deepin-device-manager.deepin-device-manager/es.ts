@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>AudiodeviceWidget</name>
     <message>
@@ -215,7 +217,7 @@
     <name>ComputerOverviewWidget</name>
     <message>
         <source>Overview</source>
-        <translation>Visión general</translation>
+        <translation>Resumen</translation>
     </message>
     <message>
         <source>Device</source>
@@ -654,7 +656,7 @@
     </message>
     <message>
         <source>Device Info</source>
-        <comment>export file's name</comment>
+        <comment>export file&apos;s name</comment>
         <translation>Información del dispositivo</translation>
     </message>
     <message>

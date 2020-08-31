@@ -34,7 +34,7 @@ if [[ -z $(which msgfmt) ]]; then
 	exit 1
 fi
 
-DIR_TRANSLATIONS="translations"
+DIR_TRANSLATIONS="translations_full"
 APPLICACION_NAME=""
 
 QM_GENERATOR=/usr/lib/qt5/bin/lrelease

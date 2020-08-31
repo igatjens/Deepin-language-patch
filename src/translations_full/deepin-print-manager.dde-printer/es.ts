@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>AddPrinterTask</name>
     <message>
@@ -692,7 +694,7 @@
     <message>
         <location filename="../ui/dprintersshowwindow.cpp" line="262"/>
         <source>No printer configured</source>
-        <translation>Sin impresora configurada</translation>
+        <translation>Sin impresoras configuradas</translation>
     </message>
     <message>
         <location filename="../ui/dprintersshowwindow.cpp" line="267"/>
@@ -1240,7 +1242,7 @@
         <location filename="../ui/printersearchwindow.cpp" line="83"/>
         <location filename="../ui/printersearchwindow.cpp" line="86"/>
         <source>Discover printer</source>
-        <translation>Encontrar la impresora</translation>
+        <translation>Detectar impresoras</translation>
     </message>
     <message>
         <location filename="../ui/printersearchwindow.cpp" line="89"/>

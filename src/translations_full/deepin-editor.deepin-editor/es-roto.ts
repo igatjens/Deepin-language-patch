@@ -190,7 +190,7 @@
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="111"/>
-        <source>Word Wrap</source>
+        <source>Word wrap</source>
         <translation>Ajuste de línea</translation>
     </message>
     <message>
@@ -508,12 +508,12 @@
     <message>
         <location filename="../src/settingsdialog.cpp" line="98"/>
         <source>Read-Only mode</source>
-        <translation>Modo solo lectura</translation>
+        <translation>Modo de solo lectura</translation>
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="99"/>
-        <source>Toggle comment</source>
-        <translation>Alternar comentario</translation>
+        <source>Add comment</source>
+        <translation>Añadir comentario</translation>
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="100"/>
@@ -532,7 +532,7 @@
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="103"/>
-        <source>Switch bookmark</source>
+        <source>Add/Remove bookmark</source>
         <translation>Añadir/quitar marcador</translation>
     </message>
     <message>
@@ -557,17 +557,17 @@
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="112"/>
-        <source>Code Flod Flag</source>
-        <translation>Marcador para contraer el código</translation>
+        <source>Code folding flag</source>
+        <translation>Marcador para plegar código</translation>
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="113"/>
-        <source>Show Line Number</source>
-        <translation>Mostrar número de línea</translation>
+        <source>Show line numbers</source>
+        <translation>Mostrar los números de línea</translation>
     </message>
     <message>
         <location filename="../src/settingsdialog.cpp" line="114"/>
-        <source>Mark up</source>
+        <source>Color mark</source>
         <translation>Marcar con color</translation>
     </message>
 </context>
@@ -633,13 +633,13 @@
     </message>
     <message>
         <location filename="../src/settings.cpp" line="306"/>
-        <source>This shortcut key conflicts with %1, click add to make this shortcut key take effect immediately</source>
+        <source>This shortcut conflicts with %1, click on Replace to make this shortcut effective immediately</source>
         <translation>Este atajo entra en conflicto con %1, haga clic en Reemplazar para que este atajo sea efectivo inmediatamente</translation>
     </message>
     <message>
         <location filename="../src/settings.cpp" line="415"/>
         <location filename="../src/settings.cpp" line="423"/>
-        <source>%1 is invalid shortcut key, please reset</source>
+        <source>%1 is invalid</source>
         <translation>%1 es inválido</translation>
     </message>
     <message>
@@ -650,7 +650,7 @@
     </message>
     <message>
         <location filename="../src/settings.cpp" line="459"/>
-        <source>replace</source>
+        <source>Replace</source>
         <translation>Reemplazar</translation>
     </message>
 </context>
@@ -680,22 +680,6 @@
         <location filename="../src/tabbar.cpp" line="382"/>
         <source>Close unmodified tabs</source>
         <translation>Cerrar las pestañas sin modificar</translation>
-    </message>
-    <message>
-        <source>More ways to close</source>
-        <translation type="vanished">Más formas de cerrar</translation>
-    </message>
-    <message>
-        <source>Close left tabs</source>
-        <translation type="vanished">Cerrar pestañas a la izquierda</translation>
-    </message>
-    <message>
-        <source>Close right tabs</source>
-        <translation type="vanished">Cerrar pestañas a la derecha</translation>
-    </message>
-    <message>
-        <source>Close unchange tabs</source>
-        <translation type="vanished">Cerrar pestañas sin cambios</translation>
     </message>
     <message>
         <location filename="../src/tabbar.cpp" line="378"/>
@@ -760,12 +744,12 @@
     <message>
         <location filename="../src/dtextedit.cpp" line="150"/>
         <source>Turn on Read-Only mode</source>
-        <translation>Activar modo solo lectura</translation>
+        <translation>Activar el modo de solo lectura</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="151"/>
         <source>Turn off Read-Only mode</source>
-        <translation>Desactival modo solo lectura</translation>
+        <translation>Desactiva el modo de solo lectura</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="152"/>
@@ -784,8 +768,8 @@
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="155"/>
-        <source>Toggle comment</source>
-        <translation>Alternar comentario</translation>
+        <source>Add Comment</source>
+        <translation>Añadir comentario</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="156"/>
@@ -814,7 +798,7 @@
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="161"/>
-        <source>Cancel bookmark</source>
+        <source>Remove Bookmark</source>
         <translation>Quitar marcador</translation>
     </message>
     <message>
@@ -825,37 +809,37 @@
     <message>
         <location filename="../src/dtextedit.cpp" line="163"/>
         <source>Next bookmark</source>
-        <translation>Next bookmark</translation>
+        <translation>Siguiente marcador</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="164"/>
-        <source>Clear bookmark</source>
+        <source>Remove All Bookmarks</source>
         <translation>Quitar todos los marcadores</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="165"/>
-        <source>Flod all Level</source>
+        <source>Fold All</source>
         <translation>Ocultar todo</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="166"/>
-        <source>Flod current Level</source>
+        <source>Fold Current Level</source>
         <translation>Ocultar el nivel actual</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="167"/>
-        <source>Unflod all Level</source>
+        <source>Unfold All</source>
         <translation>Mostrar todo</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="168"/>
-        <source>Unflod Current Level</source>
+        <source>Unfold Current Level</source>
         <translation>Mostrar el nivel actual</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="174"/>
-        <source>Mark up</source>
-        <translation>Marcar con color</translation>
+        <source>Color Mark</source>
+        <translation>Marca de color</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="175"/>
@@ -870,17 +854,12 @@
     <message>
         <location filename="../src/dtextedit.cpp" line="177"/>
         <source>Clear All Marks</source>
-        <translation>Quitar todas las marcas</translation>
-    </message>
-    <message>
-        <location filename="../src/dtextedit.cpp" line="178"/>
-        <source>Cancle Mark Current Line</source>
-        <translation>Quitar la marca actual</translation>
+        <translation>Eliminar todas las marcas</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="179"/>
         <source>Clear Last Mark</source>
-        <translation>Quitar la última marca</translation>
+        <translation>Eliminar la última marca</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="181"/>
@@ -907,33 +886,8 @@
         <translation>Estilo 4</translation>
     </message>
     <message>
-        <location filename="../src/dtextedit.cpp" line="202"/>
-        <source>Collapse/Expand</source>
-        <translation>Contraer/Expandir</translation>
-    </message>
-    <message>
-        <location filename="../src/dtextedit.cpp" line="203"/>
-        <source>Collapse all</source>
-        <translation>Contraer todo</translation>
-    </message>
-    <message>
-        <location filename="../src/dtextedit.cpp" line="204"/>
-        <source>Expand all</source>
-        <translation>Expandir todo</translation>
-    </message>
-    <message>
-        <location filename="../src/dtextedit.cpp" line="205"/>
-        <source>Collapse this</source>
-        <translation>Contraer este</translation>
-    </message>
-    <message>
-        <location filename="../src/dtextedit.cpp" line="206"/>
-        <source>Expand this</source>
-        <translation>Expandir este</translation>
-    </message>
-    <message>
         <location filename="../src/dtextedit.cpp" line="212"/>
-        <source>Column edit</source>
+        <source>Column Mode</source>
         <translation>Modo de columna</translation>
     </message>
     <message>
@@ -943,7 +897,7 @@
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="215"/>
-        <source>Cancel comment</source>
+        <source>Remove Comment</source>
         <translation>Borrar comentario</translation>
     </message>
     <message>
@@ -995,14 +949,14 @@
     <message>
         <location filename="../src/dtextedit.cpp" line="2809"/>
         <source>Read-Only mode is off</source>
-        <translation>Modo solo lectura desactivado</translation>
+        <translation>Modo de solo lectura desactivado</translation>
     </message>
     <message>
         <location filename="../src/dtextedit.cpp" line="2815"/>
         <location filename="../src/dtextedit.cpp" line="2823"/>
         <location filename="../src/dtextedit.cpp" line="4745"/>
         <source>Read-Only mode is on</source>
-        <translation>Modo solo lectura activado</translation>
+        <translation>Modo de solo lectura activado</translation>
     </message>
 </context>
 <context>
@@ -1069,7 +1023,7 @@
     <message>
         <location filename="../src/window.cpp" line="1108"/>
         <source>Read-Only mode is on</source>
-        <translation>Modo solo lectura activado</translation>
+        <translation>Modo de solo lectura activado</translation>
     </message>
     <message>
         <location filename="../src/window.cpp" line="1356"/>

@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>ExpressionBar</name>
     <message>
@@ -14,7 +16,7 @@
     </message>
     <message>
         <source>Clear history</source>
-        <translation>Limpia historial</translation>
+        <translation>Limpiar historial</translation>
     </message>
 </context>
 <context>
