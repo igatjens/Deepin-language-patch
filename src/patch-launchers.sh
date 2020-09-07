@@ -14,6 +14,16 @@ APLICACIONES[10]="/usr/share/applications/deepin-font-manager.desktop;Administra
 APLICACIONES[11]="/usr/share/applications/deepin-compressor.desktop;Compresor de archivos"
 APLICACIONES[12]="/usr/share/applications/deepin-deb-installer.desktop;Instalador de paquetes"
 APLICACIONES[13]="/usr/share/applications/deepin-defender.desktop;Centro de seguridad"
+APLICACIONES[14]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-compress.desktop;Comprimir"
+APLICACIONES[15]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-compress-multi.desktop;Comprimir"
+APLICACIONES[16]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompress.desktop;Extract"
+APLICACIONES[17]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompresshere.desktop;Extraer aquí"
+APLICACIONES[18]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompresshere-multi.desktop;Extraer aquí"
+APLICACIONES[19]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompresshere-split.desktop;Extraer aquí"
+APLICACIONES[20]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompresshere-split_multi.desktop;Extraer aquí"
+APLICACIONES[21]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompress-multi.desktop;Extraer"
+APLICACIONES[22]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompress-split.desktop;Extraer"
+APLICACIONES[23]="/usr/share/deepin/dde-file-manager/oem-menuextensions/deepin-decompress-split_multi.desktop;Extraer"
 
 
 for (( i = 0; i < ${#APLICACIONES[@]}; i++ )); do
@@ -45,3 +55,4 @@ done
 
 # Arreglo para File Manager
 sudo sed -i "s/Gestor de archivos/Administrador de archivos/" /usr/share/applications/dde-file-manager.desktop
+
