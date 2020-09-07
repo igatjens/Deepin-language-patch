@@ -1,0 +1,6 @@
+E: deepin-language-patch-es: copyright-file-contains-full-gpl-license
+E: deepin-language-patch-es: copyright-should-refer-to-common-license-file-for-gpl
+E: deepin-language-patch-es: md5sums-lists-nonexistent-file usr/share/deepin-language-patch/es/translations/deepin-print-manager.dde-printer/dde-printer_es.q
+W: deepin-language-patch-es: file-missing-in-md5sums usr/share/deepin-language-patch/es/translations/deepin-print-manager.dde-printer/dde-printer_es.qm
+W: deepin-language-patch-es: maintainer-script-ignores-errors postinst
+W: deepin-language-patch-es: maintainer-script-ignores-errors prerm
