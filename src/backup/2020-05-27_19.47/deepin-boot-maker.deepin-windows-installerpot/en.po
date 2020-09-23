@@ -1,0 +1,156 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Deepin Boot Maker\n"
+"PO-Revision-Date: 2017-09-22 19:28+0000\n"
+"Last-Translator: Maggie Liu <maggie.liufei@gmail.com>\n"
+"Language-Team: English (http://www.transifex.com/linuxdeepin/deepin-boot-maker/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../fontend/mainwindow.cpp:70
+msgctxt "MainWindow|"
+msgid "Username"
+msgstr "Username"
+
+#: ../fontend/mainwindow.cpp:95
+msgctxt "MainWindow|"
+msgid "Password"
+msgstr "Password"
+
+#: ../fontend/mainwindow.cpp:118
+msgctxt "MainWindow|"
+msgid "Repeat Password"
+msgstr "Repeat Password"
+
+#: ../fontend/mainwindow.cpp:231
+msgctxt "MainWindow|"
+msgid "This operation will not affect any of your data. Please use it freely."
+msgstr "This operation will not affect any of your data. Please use it freely."
+
+#: ../fontend/mainwindow.cpp:254
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"Please ensure that there is at least one%1 disk having more than 10GB free "
+"space."
+msgstr "Please ensure that there is at least one%1 disk having more than 10GB free space."
+
+#: ../fontend/mainwindow.cpp:263
+msgctxt "MainWindow|"
+msgid "Start"
+msgstr "Start"
+
+#: ../fontend/mainwindow.cpp:271
+msgctxt "MainWindow|"
+msgid "Exit"
+msgstr "Exit"
+
+#: ../fontend/mainwindow.cpp:308
+msgctxt "MainWindow|"
+msgid "Being installed. Please wait... "
+msgstr "Being installed. Please wait... "
+
+#: ../fontend/mainwindow.cpp:346
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"Installed Successfully. You need to restart your computer to experience %1."
+msgstr "Installed Successfully. You need to restart your computer to experience %1."
+
+#: ../fontend/mainwindow.cpp:354
+msgctxt "MainWindow|"
+msgid "Installation Failed."
+msgstr "Installation Failed."
+
+#: ../fontend/mainwindow.cpp:360
+msgctxt "MainWindow|"
+msgid "Restart Later"
+msgstr "Restart Later"
+
+#: ../fontend/mainwindow.cpp:363
+msgctxt "MainWindow|"
+msgid "Restart Now"
+msgstr "Restart Now"
+
+#: ../fontend/mainwindow.cpp:389
+msgctxt "MainWindow|"
+msgid "Finished"
+msgstr "Finished"
+
+#: ../fontend/mainwindow.cpp:531
+#, qt-format
+msgctxt "MainWindow|"
+msgid "You have installed %1."
+msgstr "You have installed %1."
+
+#: ../fontend/mainwindow.cpp:537
+msgctxt "MainWindow|"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../fontend/mainwindow.cpp:540
+msgctxt "MainWindow|"
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: ../fontend/mainwindow.cpp:543
+msgctxt "MainWindow|"
+msgid "Reinstall"
+msgstr "Reinstall"
+
+#: ../fontend/mainwindow.cpp:555
+msgctxt "MainWindow|"
+msgid "Being uninstalled. Please wait... "
+msgstr "Being uninstalled. Please wait... "
+
+#: ../fontend/mainwindow.cpp:562
+msgctxt "MainWindow|"
+msgid "Uninstalled Successfully. "
+msgstr "Uninstalled Successfully. "
+
+#: ../fontend/mainwindow.cpp:569
+msgctxt "MainWindow|"
+msgid "Uninstallation Failed."
+msgstr "Uninstallation Failed."
+
+#: ../backend/backend.cpp:23
+msgctxt "QObject|"
+msgid "Deepin System Installer"
+msgstr "Deepin System Installer"
+
+#: ../backend/utils.cpp:247 ../backend/utils.cpp:279
+msgctxt "QObject|"
+msgid "The first character must be in lower case."
+msgstr "The first character must be in lower case."
+
+#: ../backend/utils.cpp:258 ../backend/utils.cpp:273
+msgctxt "QObject|"
+msgid "Username must comprise a~z, 0~9, - or _. "
+msgstr "Username must comprise a~z, 0~9, - or _. "
+
+#: ../backend/utils.cpp:267
+msgctxt "QObject|"
+msgid "Username can not be empty. "
+msgstr "Username can not be empty. "
+
+#: ../backend/utils.cpp:286
+msgctxt "QObject|"
+msgid "The username has been used by system."
+msgstr "The username has been used by system."
+
+#: ../fontend/mainwindow.cpp:47
+msgctxt "QObject|"
+msgid "Password can not be empty."
+msgstr "Password can not be empty."
+
+#: ../fontend/mainwindow.cpp:48
+msgctxt "QObject|"
+msgid "The two passwords do not match."
+msgstr "The two passwords do not match."

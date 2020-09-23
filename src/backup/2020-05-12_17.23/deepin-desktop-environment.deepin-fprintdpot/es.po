@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Zaraza, 2017
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-18 14:47+0800\n"
+"PO-Revision-Date: 2017-12-18 09:06+0000\n"
+"Last-Translator: Zaraza, 2017\n"
+"Language-Team: Spanish (https://www.transifex.com/linuxdeepin/teams/3617/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../pam/pam.c:198
+msgid "Please verify the fingerprint"
+msgstr "Por favor verifica la huella dactilar"
+
+#: ../../pam/pam.c:200
+msgid ""
+"Failed to identify fingerprint, put your finger on fingerprint recorder, "
+"move up from the bottom and unclench"
+msgstr ""
+"Falló la identificación de huella dactilar; coloque su dedo en el sensor "
+"dactilar, deslice de abajo hacia arriba y suelte"
+
+#: ../../pam/pam.c:212
+msgid "Failed to match fingerprint, please enter password manually"
+msgstr ""
+"No se reconoce la huella dactilar, por favor ingrese la contraseña "
+"manualmente"

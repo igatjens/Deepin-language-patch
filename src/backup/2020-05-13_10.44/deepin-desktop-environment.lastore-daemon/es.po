@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Alvaro Samudio <alvarosamudio@protonmail.com>, 2019
+# Isaías Gätjens M <igatjens@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-12 18:42+0800\n"
+"PO-Revision-Date: 2019-10-23 02:33+0000\n"
+"Last-Translator: Isaías Gätjens M <igatjens@gmail.com>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/linuxdeepin/teams/3617/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/lastore-daemon/inhibitor.go:31
+msgid "Updating the system, please do not shut down or reboot now."
+msgstr "Actualizando el sistema, por favor no apague ni reinicie ahora."
+
+#: ../src/lastore-daemon/main.go:101
+msgid "Control Center"
+msgstr "Centro de control"

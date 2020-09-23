@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-08 18:08+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#: misc/pam-module/pam_auth.c:224
+#, c-format
+msgid "Verification error"
+msgstr "Verification error"
+
+#: misc/pam-module/pam_auth.c:228
+#, c-format
+msgid "Fingerprint verification unavailable, please input password"
+msgstr "Fingerprint verification unavailable, please input password"
+
+#: misc/pam-module/pam_auth.c:250 misc/pam-module/pam_auth.c:258
+#, c-format
+msgid "Clean your finger and try again"
+msgstr "Clean your finger and try again"
+
+#: misc/pam-module/pam_auth.c:254
+#, c-format
+msgid "Finger not centered"
+msgstr "Finger not centered"
+
+#: misc/pam-module/pam_auth.c:262
+#, c-format
+msgid "Unclear fingerprint, please clean your finger and try again"
+msgstr "Unclear fingerprint, please clean your finger and try again"
+
+#: misc/pam-module/pam_auth.c:266
+#, c-format
+msgid "Finger moved too fast, please do not lift until prompted"
+msgstr "Finger moved too fast, please do not lift until prompted"
+
+#: misc/pam-module/pam_auth.c:278 misc/pam-module/pam_auth.c:539
+#, c-format
+msgid "Password"
+msgstr "Password"
+
+#: misc/pam-module/pam_auth.c:389
+#, c-format
+msgid "Verification successful"
+msgstr "Verification successful"
+
+#: misc/pam-module/pam_auth.c:406
+#, c-format
+msgid "Verification failed, please input your password"
+msgstr "Verification failed, please input your password"
+
+#: misc/pam-module/pam_auth.c:410
+#, c-format
+msgid "Verification failed, %d chances left"
+msgstr "Verification failed, %d chances left"
+
+#: misc/pam-module/pam_auth.c:412
+#, c-format
+msgid "Verification failed, 1 chance left"
+msgstr "Verification failed, 1 chance left"
+
+#: misc/pam-module/pam_auth.c:536
+#, c-format
+msgid "Verify your fingerprint or password"
+msgstr "Verify your fingerprint or password"
